@@ -7,12 +7,19 @@ Feel free for use , no copyright code
 Required libraries: 
 
 pyttsx3
+
 speech_recognition
+
 datetime
+
 wikipedia
+
 pywhatkit
+
 os
+
 tkinter
+
 threading webbrowser
 
 Preview
